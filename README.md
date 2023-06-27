@@ -11,17 +11,15 @@
 
 
 
-## 一、**3D分割综述** | Overview
+## 一、Overview
 
-### 1.**3D分割综述，全面调研3D语义/实例/部件分割，并提供未来的研究方向**3D
-
-### 3D segmentation overview, a comprehensive investigation of 3D semantics/instance/part segmentation, and future research directions 
+### 1.**3D segmentation overview, a comprehensive investigation of 3D semantics/instance/part segmentation, and future research directions 
 
 Deep Learning based 3D Segmentation: A Survey
 
-## 二、**3D语义分割** | 3D Semantic Segmentation
+## 二、3D Semantic Segmentation
 
-### 1.**基于RGB-D的算法汇总** | RGB-D based
+### 1. RGB-D based
 
 3D Graph Neural Networks for RGBD Semantic Segmentation
 
@@ -53,7 +51,7 @@ RGB-D Scene Labeling with Multimodal Recurrent Neural Networks
 
 Semantic segmentation of RGBD images based on deep depth regression
 
-### 2.**基于投影图像的算法汇总** | Projected image based
+### Projected image based
 
 Deep Projective 3D Semantic Segmentation
 
@@ -71,7 +69,7 @@ SqueezeSegV2: Improved Model Structure and Unsupervised Domain Adaptation for Ro
 
 SqueezeSegV3: Spatially-Adaptive Convolution for Ecient Point-Cloud Segmentation
 
-### 3.**基于体素的算法汇总** | Voxel-based
+### Voxel-based
 
 3D Semantic Segmentation with Submanifold Sparse Convolutional Networks
 
@@ -87,9 +85,9 @@ SEGCloud: Semantic Segmentation of 3D Point Clouds
 
 VV-NET: Voxel VAE Net with Group Convolutions for Point Cloud Segmentation
 
-### 4.**基于点云的算法汇总** | Point cloud based
+### Point cloud based
 
-#### **基于MLP的算法汇总** | Based on MLP
+#### Based on MLP
 
 3D Recurrent Neural Networks with Context Fusion for Point Cloud Semantic Segmentation
 
@@ -105,7 +103,7 @@ PointSIFT: A SIFT-like Network Module for 3D Point Cloud Semantic Segmentation
 
 PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing
 
-#### **基于Point Conv的算法汇总** | Based on Point Conv
+#### Based on Point Conv
 
 A-CNN: Annularly Convolutional Neural Networks on Point Clouds
 
@@ -130,7 +128,7 @@ RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds
 
 Recurrent Slice Networks for 3D Segmentation of Point Clouds
 
-#### **基于Graph Conv的算法汇总** | Based on Graph Conv
+#### Based on Graph Conv
 
 3DContextNet: K-d Tree Guided Hierarchical Learning of Point Clouds Using Local and Global Contextual Cues
 
@@ -154,7 +152,7 @@ Spherical Kernel for Efficient Graph Convolution on 3D Point Clouds
 
 TGNet: Geometric Graph CNN on 3-D Point Cloud Segmentation
 
-### 5.**基于多模态的算法汇总** | Multimodal based
+### Multimodal based
 
 3DMV: Joint 3D-Multi-View Prediction for 3D Semantic Scene Segmentation
 
@@ -166,7 +164,7 @@ Point-Voxel CNN for Efficient 3D Deep Learning
 
 Sensor Fusion for Joint 3D Object Detection and Semantic Segmentation
 
-### 6.**基于tangent images/lattice的算法汇总** | Based on tangent images/lattice
+### Based on tangent images/lattice
 
 Tangent Convolutions for Dense Prediction in 3D
 
@@ -180,9 +178,7 @@ ADAS: A Simple Active-and-Adaptive Baseline for Cross-Domain 3D Semantic Segment
 
 [[Code]](https://github.com/Fayeben/ADAS)
 
-### 8.**基于LiDAR的语义分割自适应方法**
-
-### LiDAR-based adaptive approach for semantic segmentation
+### 8. LiDAR-based adaptive approach for semantic segmentation
 
 Fake it, Mix it, Segment it: Bridging the Domain Gap Between Lidar Sensors
 
@@ -190,7 +186,7 @@ Fake it, Mix it, Segment it: Bridging the Domain Gap Between Lidar Sensors
 
 P2Net: A Post-Processing Network for Refining Semantic Segmentation of LiDAR Point Cloud based on Consistency of Consecutive Frames
 
-## 三、**3D实例分割** | 3D example segmentation
+## 三、3D example segmentation
 
 ### 1.**Proposal Based**
 
@@ -228,15 +224,14 @@ PanopticFusion: Online Volumetric Semantic Mapping at the Level of Stuff and Thi
 
 PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 
-## 四、**3D全景分割** | 3D panoramic segmentation
-
-### 1.**全景分割汇总** | **全景分割汇总**
+## 四、3D panoramic segmentation
 
 
 
-## 五、**3D部件分割** | 3D part segmentation
 
-### 1.**基于规则数据** | Rule-based data
+## 五、3D part segmentation
+
+### 1. Rule-based data
 
 3D Shape Segmentation with Projective Convolutional Networks
 
@@ -246,7 +241,7 @@ PointGrid: A Deep Network for 3D Shape Understanding
 
 VoxSegNet: Volumetric CNNs for Semantic Part Segmentation of 3D Shapes
 
-### 2.**基于不规则数据** | Based on irregular data
+### 2. Based on irregular data
 
 3D Point Capsule Networks
 
